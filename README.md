@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @venisha-kalola
 - 👀 I’m interested in exploring tech field
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web projects
+- 🌱 I’m currently learning app development
+- 💞️ I’m looking to collaborate on app or web based projects
 - 📫 How to reach me : venishakalola@gmail.com
 
 <!---
