@@ -1,14 +1,12 @@
 # Hi 👋, I'm Venisha Kalola
 
- 👋 Hi, I'm Venisha Kalola, a passionate Software Developer specializing in Flutter, MERN stack, and AI-driven solutions. I love building scalable applications, optimizing performance, and integrating AI to solve real-world problems. 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venisha-kalola-997756258/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/venisha-kalola/)
+[![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/venisha_kalola)
+[![CodeChef](https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/venisha_kalola)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/venishavd9o/)
 
-## Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/venisha-kalola-997756258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venisha-kalola" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/venisha_kalola" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="venisha_kalola" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/venisha_kalola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="venisha_kalola" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/venisha-kalola/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="venisha-kalola" height="30" width="40" /></a>
-</p>
+ 👋 Hi, I'm Venisha Kalola, a passionate Software Developer specializing in Flutter, MERN stack, and AI-driven solutions. I love building scalable applications, optimizing performance, and integrating AI to solve real-world problems. 🚀
 
 ## Tech Stack
 
