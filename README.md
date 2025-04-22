@@ -77,5 +77,5 @@
 </div>
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=venisha-kalola&theme=tokyonight" alt="venisha-kalola" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=venisha-kalola&theme=tokyo-night" alt="Activity Graph" />
+<!--   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=venisha-kalola&theme=tokyo-night" alt="Activity Graph" /> -->
 </div>
