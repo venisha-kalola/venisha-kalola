@@ -76,8 +76,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venisha-kalola&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=venisha-kalola&theme=tokyonight" alt="venisha-kalola" />
-<!--   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=venisha-kalola&theme=tokyo-night" alt="Activity Graph" /> -->
+  <!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=venisha-kalola&theme=tokyonight" alt="venisha-kalola" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=venisha-kalola&theme=tokyo-night" alt="Activity Graph" /> -->
 </div>
+
 
 [![An image of @venishakalola's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/venishakalola)](https://holopin.io/@venishakalola)
