@@ -79,3 +79,5 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=venisha-kalola&theme=tokyonight" alt="venisha-kalola" />
 <!--   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=venisha-kalola&theme=tokyo-night" alt="Activity Graph" /> -->
 </div>
+
+[![An image of @venishakalola's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/venishakalola)](https://holopin.io/@venishakalola)
